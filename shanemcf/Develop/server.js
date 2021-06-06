@@ -86,5 +86,5 @@ app.delete('/api/notes/:id', (req, res) => {
 app.listen(PORT, () => {
     console.log(`App listening on PORT ${PORT}`);
 });
-
+//run with npm start
 //check with http://localhost:3001
